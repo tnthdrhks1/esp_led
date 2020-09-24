@@ -8,9 +8,13 @@ void setup() {
 // the loop function runs over and over again forever
 void loop() {
 
+<<<<<<< HEAD
   Serial.println("data : 101");
 
   Serial.println("hello world")
 
   Serial.println("bye world")  
+=======
+  
+>>>>>>> b3b8cbb8a511fe26dd78c96aeb045048dbf758b6
 }
