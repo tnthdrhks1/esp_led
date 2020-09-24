@@ -12,6 +12,5 @@ void loop() {
 
   Serial.println("hello world")
 
-  Serial.println("bye world")
-  
+  Serial.println("bye world")  
 }
