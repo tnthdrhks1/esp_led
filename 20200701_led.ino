@@ -11,5 +11,7 @@ void loop() {
   Serial.println("data : 101");
 
   Serial.println("hello world")
+
+  Serial.println("bye world")
   
 }
